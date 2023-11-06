@@ -1,0 +1,16 @@
+.pages_block {
+  .page_list {
+    display: flex;
+    margin: 1rem;
+    li {
+      padding: 0.7rem 1rem;
+      margin: 0 0.2rem;
+    }
+    li:hover {
+      background-color: #CAFF33;
+      color: #1E1E1E;
+      border-radius: 4rem;
+      cursor: pointer;
+    }
+  }
+}
